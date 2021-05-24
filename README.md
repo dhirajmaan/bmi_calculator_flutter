@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A BMI calculator app flutter<br>
+A BMI calculator app in flutter<br>
 ![bmi-calc-demo](https://user-images.githubusercontent.com/43815519/119393660-da8f6100-bcee-11eb-8697-b6db352bd482.gif)
 
 
